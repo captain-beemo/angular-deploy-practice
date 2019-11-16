@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
+## Deploy on github pages
+
+```
+1.sudo npm -i -g angular-cli-ghpages
+
+2.ng build --prod -base-href="https://github.com/captain-beemo/angular-deploy-practice/"
+
+3.ngh
+```
+
+## Setup SSH keys for git and github
+
+[How to set up SSH keys for Git and Github - YouTube](https://www.youtube.com/watch?v=Vi-WqFKYpnw)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
