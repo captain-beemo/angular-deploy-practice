@@ -15,6 +15,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Setup SSH keys for git and github
 
 [How to set up SSH keys for Git and Github - YouTube](https://www.youtube.com/watch?v=Vi-WqFKYpnw)
+```
+1.generate ssh keys
+
+2.add ssh keys to ssh-agents in Git bash terinal
+
+3.connect to gihub in Git bash terminal
+```
 
 ## Development server
 
